@@ -28,10 +28,10 @@ I am learning Python for my professional development as a Junior Data Analyst an
 
 Below is a list of solved LeetCode problems along with their difficulty level and the time taken to solve them:
 
-| Problem Name           | Difficulty | Solution Time | Language |
-|------------------------|------------|---------------|----------|
-| Two Sum                | Easy       | 10 minutes    | Python   |
-| Palindrome Number       | Easy       | 5 minutes     | Python   |
+| Problem Name           | Difficulty | Language | Runtime      | Memory           |
+|------------------------|------------|----------|--------------|------------------|
+| Two Sum                | Easy       | Python   | 3ms - 97.84% | 17.79MB - 41.49% | 
+| Palindrome Number      | Easy       | Python   | 0ms - 100%   | 16.65MB - 54.18% |
 
 *(Note: This table will grow as I continue to solve more problems)*
 
