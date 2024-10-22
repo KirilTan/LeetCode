@@ -1,7 +1,7 @@
 from typing import List
 
 
-class Solution:
+class Solution(object):
     @staticmethod
     def two_sum(nums: List[int], target: int) -> List[int]:
         num_to_index = {}
