@@ -2,19 +2,27 @@
 
 Welcome to my LeetCode repository!
 
-I am learning Python for my professional development as a Junior Data Analyst and because coding is a fun and intellectually stimulating challenge for me. This repository contains solutions to various LeetCode problems that I have solved in Python.
+I am learning Python for my professional development as a Junior Data Analyst and because coding is a fun and
+intellectually stimulating challenge for me. This repository contains solutions to various LeetCode problems that I have
+solved in Python.
 
 ## Goals
 
-- **Improve Problem-Solving Skills**: Continuously enhancing my ability to solve algorithmic challenges in an efficient and optimal way.
-- **Python Mastery**: Achieving fluency in Python by solving a wide range of problems that test different aspects of the language and algorithms.
-- **Data Structures & Algorithms**: Deepening my understanding of key data structures (arrays, hash maps, linked lists, etc.) and algorithms (greedy, divide and conquer, dynamic programming, etc.).
-- **Interview Preparation**: Preparing for technical interviews with a focus on LeetCode-style questions that are frequently asked in coding interviews.
+- **Improve Problem-Solving Skills**: Continuously enhancing my ability to solve algorithmic challenges in an efficient
+  and optimal way.
+- **Python Mastery**: Achieving fluency in Python by solving a wide range of problems that test different aspects of the
+  language and algorithms.
+- **Data Structures & Algorithms**: Deepening my understanding of key data structures (arrays, hash maps, linked lists,
+  etc.) and algorithms (greedy, divide and conquer, dynamic programming, etc.).
+- **Interview Preparation**: Preparing for technical interviews with a focus on LeetCode-style questions that are
+  frequently asked in coding interviews.
 
 ## Repository Features
 
-- **Automatic Updates**: This repository is updated regularly using LeetSync, ensuring that the latest solutions are always available.
-- **Comprehensive Solutions**: Solutions to a wide variety of LeetCode problems, each thoroughly explained with comments and clear code structure.
+- **Automatic Updates**: This repository is updated regularly using LeetSync, ensuring that the latest solutions are
+  always available.
+- **Comprehensive Solutions**: Solutions to a wide variety of LeetCode problems, each thoroughly explained with comments
+  and clear code structure.
 - **Problem Categories**:
     - Arrays & Strings
     - Linked Lists
@@ -28,10 +36,11 @@ I am learning Python for my professional development as a Junior Data Analyst an
 
 Below is a list of solved LeetCode problems along with their difficulty level and the time taken to solve them:
 
-| Problem Name           | Difficulty | Language | Runtime      | Memory           |
-|------------------------|------------|----------|--------------|------------------|
-| Two Sum                | Easy       | Python   | 3ms - 97.84% | 17.79MB - 41.49% | 
-| Palindrome Number      | Easy       | Python   | 0ms - 100%   | 16.65MB - 54.18% |
+| Problem Name      | Difficulty | Language | Runtime      | Memory           |
+|-------------------|------------|----------|--------------|------------------|
+| Two Sum           | Easy       | Python   | 3ms - 97.84% | 17.79MB - 41.49% | 
+| Palindrome Number | Easy       | Python   | 0ms - 100%   | 16.65MB - 54.18% |
+| Roman to Integer  | Easy       | Python   | 3ms - 98.64% | 16.6MB  - 21.25% |
 
 *(Note: This table will grow as I continue to solve more problems)*
 
