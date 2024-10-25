@@ -36,11 +36,13 @@ solved in Python.
 
 Below is a list of solved LeetCode problems along with their difficulty level and the time taken to solve them:
 
-| Problem Name      | Difficulty | Language | Runtime      | Memory           |
-|-------------------|------------|----------|--------------|------------------|
-| Two Sum           | Easy       | Python   | 3ms - 97.84% | 17.79MB - 41.49% | 
-| Palindrome Number | Easy       | Python   | 0ms - 100%   | 16.65MB - 54.18% |
-| Roman to Integer  | Easy       | Python   | 3ms - 98.64% | 16.6MB  - 21.25% |
+| Problem Name      | Difficulty | Language | Runtime       | Memory           |
+|-------------------|------------|----------|---------------|------------------|
+| Two Sum           | Easy       | Python   | 3ms - 97.84%  | 17.79MB - 41.49% | 
+| Palindrome Number | Easy       | Python   | 0ms - 100.00% | 16.65MB - 54.18% |
+| Roman to Integer  | Easy       | Python   | 3ms - 98.64%  | 16.6MB  - 21.25% |
+| Valid Parentheses | Easy       | Python   | 0ms - 100.00% | 16.57MB - 67.17% |
+  
 
 *(Note: This table will grow as I continue to solve more problems)*
 
