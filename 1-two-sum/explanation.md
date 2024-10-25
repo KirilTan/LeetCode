@@ -119,5 +119,3 @@ The function stops as soon as it finds the solution, so it returns `[0, 1]`.
 
 - **Space Complexity**:  
   The space complexity is **O(n)** because, in the worst case, we store all `n` elements of the array in the dictionary.
-
-This solution is efficient both in terms of time and space!

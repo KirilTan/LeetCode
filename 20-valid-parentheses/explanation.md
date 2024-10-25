@@ -107,5 +107,3 @@ class Solution:
 
 - **Time Complexity**: **O(n)**, where `n` is the length of the string `s`, because we iterate through the string once.
 - **Space Complexity**: **O(n)**, for the stack, in the worst case (e.g., a string of all opening brackets).
-
-This solution is efficient and well-suited for the problem.

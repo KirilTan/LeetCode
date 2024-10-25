@@ -75,5 +75,3 @@ The function returns `True` because `121` is a palindrome.
 
 - **Space Complexity**:  
   The space complexity is **O(n)** as well, since we store the string representation of the number and its reversed version.
-
-This solution provides a simple and efficient way to determine if an integer is a palindrome by leveraging Python’s string handling capabilities.
