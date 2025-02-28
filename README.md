@@ -14,7 +14,7 @@ solved in Python.
   language and algorithms.
 - **Data Structures & Algorithms**: Deepening my understanding of key data structures (arrays, hash maps, linked lists,
   etc.) and algorithms (greedy, divide and conquer, dynamic programming, etc.).
-- **SQ: Mastery**: Deepeing my understanging of SQL to better do my job as a Data Analyst
+- **SQL Mastery**: Deepeing my understanging of SQL to better do my job as a Data Analyst
 - **Interview Preparation**: Preparing for technical interviews with a focus on LeetCode-style questions that are
   frequently asked in coding interviews.
 
